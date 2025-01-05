@@ -13,10 +13,10 @@ void main(){
     char url[256];
     printf("Enter Target URL: ");
     scanf("%255s",url);
-    const char* words[]={"/admin","/Dashboard","/admin/Dashboard","/api","/admin2","/api2","/admin/admin","/dashboard","/images"};
+    const char* words[]={"/admin","/Dashboard","/admin/Dashboard","/api","/admin2","/api2","/admin/admin","/dashboard","/images","/slider","/app","/wp","/ftp"};
 
     /*char urls[512];
-    sprintf(urls,"%s%s",url,words[4]);
+    sprintf(urls,sizeof(urls),"%s%s",url,words[4]);
 
     printf("Scanning Started!");
     printf(urls);
