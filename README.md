@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Developed+By+Indian+Cyber+Force)
-
-
 # Dir-Brute
 Find Confidential Directory. </br>
 
