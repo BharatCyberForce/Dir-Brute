@@ -13,7 +13,7 @@ gcc dir-brute.c -o dir-brute -lcurl
 ```
 Or follow this command.
 ```diff
-wget
+wget https://github.com/BharatCyberForce/Dir-Brute/releases/download/Dir-Brute/dir-brute
 ```
 ```diff
 ./dir-brute
