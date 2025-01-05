@@ -11,7 +11,7 @@ gcc dir-brute.c -o dir-brute -lcurl
 ```diff
 ./dir-brute
 ```
-Or Run Binnary File
+Or you follow this command
 ```diff
 wget
 ```
