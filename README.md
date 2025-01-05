@@ -2,8 +2,7 @@
 
 
 # Dir-Brute
-Find Confidential Directory.
-Installation on Gnu / Linux OS. </br>
+Find Confidential Directory. </br>
 
 Follow this command </br>
 ```diff
