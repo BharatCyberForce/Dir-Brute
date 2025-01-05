@@ -4,14 +4,14 @@
 # Dir-Brute
 Find Confidential Directory. </br>
 
-Follow this command </br>
+Follow this command. </br>
 ```diff
 gcc dir-brute.c -o dir-brute -lcurl
 ```
 ```diff
 ./dir-brute
 ```
-Or you follow this command
+Or follow this command.
 ```diff
 wget
 ```
